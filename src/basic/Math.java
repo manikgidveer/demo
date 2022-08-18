@@ -13,4 +13,8 @@ public class Math {
 	public static void multiply(int a, int b) {
 		System.out.println("Product is:"+a*b);
 	}
+	
+	public static void substract(int a, int b) {
+		System.out.println("Substraction is:"+(a-b));
+	}
 }

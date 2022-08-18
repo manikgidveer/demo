@@ -13,5 +13,7 @@ public class Calculator {
 		System.out.println("Multiplication");
 		
 		Math.multiply(23, 8);
+		
+		Math.substract(23, 8);
 	}
 }
